@@ -30,7 +30,7 @@ Penjelasan singkat:
 Dan berikut adalah bentuk method pada java:
 
       public void cetakPesan(){
-        System.out.println("Belajar Java bersama kodedasar.com");
+        System.out.println("Belajar Java bersama rikymetalist.blogspot.com");
       }
 
 Nah dari contoh diatas kita membuat sebuah method bernama cetakPesan tanpa menggunakan parameter. Lalu tugasnya untuk mencetak sebuah pesan.
