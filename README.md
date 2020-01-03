@@ -22,10 +22,10 @@ Berikut adalah struktur dari sebuah method:
 
 Penjelasan singkat:
 
-<code>modifier</code> : Untuk menentukan hak akses terhadap method.
-<code>returnType</code> : Ada dua jenis method yaitu: method void dan method return.
-<code>namaMethod</code> : Ini adalah nama method. Sesuai keinginan anda.
-<code>Parameter</code> : Untuk meng-oper sebuah nilai. Bersifat opsional.
+<code>modifier</code> : Untuk menentukan hak akses terhadap method.<br>
+<code>returnType</code> : Ada dua jenis method yaitu: method <code>void</code> dan method <code>return</code>.<br>
+<code>namaMethod</code> : Ini adalah nama method. Sesuai keinginan anda.<br>
+<code>Parameter</code> : Untuk meng-oper sebuah nilai. Bersifat opsional.<br>
 
 Dan berikut adalah bentuk method pada java:
 
